@@ -8,7 +8,7 @@ Designed with a strong focus on user experience, visual storytelling, accessibil
 
 ## Live Demo
 
-**Portfolio Website:** https://kalpeshwaghmare-portfolio.vercel.app/
+**Portfolio Website:** https://kalpesh-waghmare.vercel.app/
 
 ---
 
